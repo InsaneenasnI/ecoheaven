@@ -1,0 +1,32 @@
+Všechny povolené hodnoty jsou:
+1. household.type:
+byt
+dům
+jiné
+diet:
+masožravec
+všežravec
+vegetarián
+vegan
+jiné
+transport.primary:
+auto
+kolo
+veřejná doprava
+chůze
+jiné
+transport.frequency:
+denně
+několikrát týdně
+příležitostně
+jiné
+ecoHabits:
+třídění odpadu
+kompostování
+úspora vody
+úspora energie
+non toxic
+zero waste
+lokální produkty
+vlastní pěstování
+jiné
